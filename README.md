@@ -15,7 +15,6 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
-/*
 #Write a python Program to find the gcd of a number using function
 
 #Developed By : Goutham.K
@@ -32,7 +31,6 @@ def gcd():
         if(n1%i==0 and n2%i==0):
             hcf=i
     print("GCD of two numbers is:",hcf)
-*/
 ```
 
 ## Output:
